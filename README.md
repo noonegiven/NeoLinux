@@ -2,9 +2,12 @@
 Custom C# based Linux masked operating system
 
 # How to install
-
+## Prep work
 * Install *Alpine Linux* without a graphical interface.
 * Install .NET 10.0
+
+## Install NeoLinux
+* https://github.com/impilottstudios/NeoLinux/releases/tag/NeoLinux
 * Move "Neo_linux1.0.0" to a USB drive
 * Rename "Neo_linux1.0.0" to "Neo"
 * Connect a USB drive and run the following commands:
